@@ -45,7 +45,7 @@
     "can-define": "^2.0.0",
     "can-dom-data-state": "^1.0.1",
     "can-dom-events": "^1.1.0",
-    "can-dom-mutate": "^1.0.0",
+    "can-dom-mutate": "^1.3.6",
     "can-fragment": "^1.0.0",
     "can-globals": "^1.0.0",
     "can-log": "^1.0.0",
