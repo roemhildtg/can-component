@@ -61,7 +61,7 @@
     "can-stache-key": "^1.0.0",
     "can-string": "<2.0.0",
     "can-symbol": "^1.4.1",
-    "can-view-callbacks": "^4.2.0",
+    "can-view-callbacks": "4.3.3",
     "can-view-model": "^4.0.0",
     "can-view-nodelist": "^4.1.0",
     "can-view-scope": "^4.7.0"
